@@ -1,5 +1,6 @@
-GitRepositoriesView.GitDirectories=
-GitRepositoriesView.GitDirectories.relative=
+GitRepositoriesView.GitDirectories=D\:\\Workspace\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+RepositorySearchDialogSearchPath=D\:\\Workspace
 core_autoIgnoreDerivedResources=false
 core_autoShareProjects=false
 core_defaultRepositoryDir=D\:\\Workspace
