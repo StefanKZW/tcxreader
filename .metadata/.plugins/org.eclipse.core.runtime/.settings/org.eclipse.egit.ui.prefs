@@ -1,0 +1,17 @@
+CloneWizard_ShowDetailedFailureDialog=false
+always_use_staging_view=false
+commit_dialog_hard_wrap_message=false
+commit_dialog_warn_about_message_second_line=false
+decorator_recompute_ancestors=false
+eclipse.preferences.version=1
+enable_logical_model=false
+refesh_on_index_change=false
+refesh_only_when_active=false
+restore_projects_on_checkout=false
+show_checkout_confirmation=false
+show_detached_head_warning=false
+show_home_drive_warning=false
+show_initial_config_dialog=false
+show_rebase_confirm=false
+show_running_launch_on_checkout_warning=false
+sync_view_fetch_before_launch=false
